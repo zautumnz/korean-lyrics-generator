@@ -9,7 +9,7 @@ correct-ish series of syllables in the desired patterns. Originally based on
 
 ## Usage
 
-Go to `https://zacanger.com/korean-lyrics-generator`, or use the CLI (first
+Go to `https://zautumnz.github.io/korean-lyrics-generator`, or use the CLI (first
 clone or download this repo) with `./cli.py pattern-file`.
 
 `pattern-file` should contain a list of newline-delineated integers representing
@@ -36,4 +36,3 @@ The `0` represents a line you wish to be a repetition of the previous line.
 Lines beginning with `#` are comments (these only work on their own line!).
 
 * [LICENSE](./LICENSE.md)
-* [Donate](https://ko-fi.com/zacanger)
